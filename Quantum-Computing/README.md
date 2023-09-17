@@ -5,7 +5,7 @@
 
 This is a curated list of up-to-date resources on learning about and developing on quantum computers. The goal is to build a categorised community-driven collection of up to date, high quality resources. 
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and it wouldn't be possible without you!
+Sharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first.
 
 ## Contents
 

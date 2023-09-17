@@ -1,4 +1,5 @@
 # Quantum Computing
+![image](https://github.com/Malav5372/QuantumResourcesHub/assets/144440737/49c9b9bb-1402-47dd-b178-7320f92230c5)
 
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) utilises quantum mechanical phenomenon such as entanglement and superposition to manipulate qubits to perform computation on a quantum computer. Currently available are tools to create and run programs on publicly usable quantum computers as well as resources to learn about them. 
